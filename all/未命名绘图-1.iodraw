@@ -25,6 +25,9 @@
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-7" value="销售" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-8" target="INnRQ9Sj8smAp5K2OzOx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-8" value="进货" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
         </mxCell>
