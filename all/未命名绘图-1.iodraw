@@ -28,6 +28,9 @@
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-7" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-8" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
