@@ -26,7 +26,7 @@
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-8" value="进货" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-4" target="INnRQ9Sj8smAp5K2OzOx-4">
           <mxGeometry relative="1" as="geometry" />
