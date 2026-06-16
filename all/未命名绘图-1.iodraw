@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eb79eyd-ra0omc4YN6Ki-7" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="50" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-2" value="库存" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="590" y="150" width="100" height="40" as="geometry" />
         </mxCell>
@@ -57,24 +54,6 @@
             <mxPoint x="370" y="270" as="sourcePoint" />
             <mxPoint x="530" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-26" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-27" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-28" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="80" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-29" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="90" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-30" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="100" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-31" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-32" value="编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="425" y="10" width="50" height="30" as="geometry" />
