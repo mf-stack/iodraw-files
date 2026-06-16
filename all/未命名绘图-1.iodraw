@@ -37,7 +37,7 @@
             <mxPoint x="630" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="INnRQ9Sj8smAp5K2OzOx-5">
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-8" target="INnRQ9Sj8smAp5K2OzOx-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="359.5" as="sourcePoint" />
             <mxPoint x="750" y="359.5" as="targetPoint" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-37" value="编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-38" value="编号" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
