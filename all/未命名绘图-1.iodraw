@@ -31,17 +31,11 @@
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-4" target="INnRQ9Sj8smAp5K2OzOx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="INnRQ9Sj8smAp5K2OzOx-5">
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="360" as="sourcePoint" />
-            <mxPoint x="750" y="360" as="targetPoint" />
+            <mxPoint x="470" y="279.5" as="sourcePoint" />
+            <mxPoint x="630" y="279.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-19" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="INnRQ9Sj8smAp5K2OzOx-18">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-20" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="INnRQ9Sj8smAp5K2OzOx-18">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
