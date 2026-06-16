@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Eb79eyd-ra0omc4YN6Ki-8" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="530" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-2" value="库存" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="100" height="40" as="geometry" />
@@ -25,8 +25,8 @@
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-6" value="药品" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-7" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-7" value="销售" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-8" value="进货" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" width="120" height="60" as="geometry" />
