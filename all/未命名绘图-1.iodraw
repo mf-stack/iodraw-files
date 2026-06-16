@@ -17,7 +17,7 @@
           <mxGeometry x="170" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-5" value="供应商" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-6" value="药品" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="100" height="40" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-4" target="INnRQ9Sj8smAp5K2OzOx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="INnRQ9Sj8smAp5K2OzOx-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.678;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="INnRQ9Sj8smAp5K2OzOx-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="279.5" as="sourcePoint" />
             <mxPoint x="640" y="279.5" as="targetPoint" />
