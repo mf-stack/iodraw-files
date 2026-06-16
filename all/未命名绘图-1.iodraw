@@ -8,7 +8,7 @@
           <mxGeometry x="110" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-2" value="库存" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="540" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-3" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="100" height="40" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="230" y="210" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-5" value="供应商" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="580" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-6" value="药品" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="100" height="40" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-8" value="进货" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-4" target="INnRQ9Sj8smAp5K2OzOx-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
