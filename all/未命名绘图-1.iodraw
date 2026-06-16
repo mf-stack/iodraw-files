@@ -110,7 +110,7 @@
           <mxGeometry x="630" y="230" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-45" value="有效期" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="50" height="30" as="geometry" />
+          <mxGeometry x="490" y="310" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-46" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="370" width="50" height="30" as="geometry" />
@@ -152,6 +152,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="INnRQ9Sj8smAp5K2OzOx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-35" target="INnRQ9Sj8smAp5K2OzOx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="INnRQ9Sj8smAp5K2OzOx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.92;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INnRQ9Sj8smAp5K2OzOx-45" target="INnRQ9Sj8smAp5K2OzOx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
